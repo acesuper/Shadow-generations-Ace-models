@@ -3,3 +3,4 @@ add main/raw/character/shadow.pac
 add main/raw/character/sonic.pac
 add main/raw/dlc/dlcddx/dlc_terios.pac
 add mod.ini
+add .gitattributes
